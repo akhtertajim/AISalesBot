@@ -1,2 +1,2 @@
 # AISalesBot
-A SalesBot to interactive shopping and price negotiation
+A SalesBot for interactive shopping and price negotiation
