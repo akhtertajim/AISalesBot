@@ -1,0 +1,122 @@
+﻿@model aisalesbot.Models.MyOrdersViewModel
+
+@{
+     ViewData["Title"] = "My Orders";
+}
+<div id="accordion">
+  @{
+    int count=0;
+  }
+@foreach (var item in Model.OrderList)
+{
+  count++;
+  <div class="card">
+    <div class="card-header" id="heading-@count">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse-@count" aria-expanded="true" aria-controls="collapseOne">
+          Order #@item.Id
+        </button>
+        <span style="float:right">
+            
+            <i class="@(item.AllItemsDelivered?"fas fa-check":"fas fa-info-circle")"></i>
+             Delivery Status : @item.DeliveryStatus
+        </span>
+      </h5>
+    </div>
+
+    <div id="collapse-@count" class="collapse show" aria-labelledby="heading-@count" data-parent="#accordion">
+        <div class="row g-0">
+            <div class="col-md-5">
+                <div class="card-body">
+                    <ul class="list-unstyled">
+                        <li>Total Amount:₹ @item.TotalAmount</li>
+                        <li>Total Items: @item.UserCarts.Count() </li>
+                        <li>Order Placed On: @item.CheckoutDate.ToString("dd/MM/yyyy hh:mm tt") </li>
+                        <li>Delivery Address: @item.ShipmentDetails.DeliveryAddress </li>
+                        <li>Delivery Contact: @item.ShipmentDetails.DeliveryMobile, @item.ShipmentDetails.DeliveryEmail</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="card-body">
+                    <div class="row g-1">
+
+
+                        @if (item.UserCarts != null)
+                        {
+                            foreach (var cart in item.UserCarts)
+                            {
+                                var prod = Model.Products?.Where(p => p.Id == cart.ProductId).FirstOrDefault();
+
+
+                                <div class="col-md-5 prodimg-order">
+                                    <img src="@prod.ImgSmall[0]">
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="card-body">
+                                        <h5>@prod.DisplayShortText</h5>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                Delivery Date:@cart.ExpectedDeliveryDate?.ToShortDateString()
+                                            </li>
+                                            <li>Total Items: @cart.Unit</li>
+                                            <li>
+                                                Amount:₹ @(prod.UnitPrice*cart.Unit)
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+                </div>
+        </div>
+
+           
+        </div>
+    </div>
+}
+  </div>
+
+
+@*<div id="accordion">
+@foreach (var item in Model.OrderList)
+{
+   
+
+  <div class="card">
+    <div class="card-header" id="card-@(item.Id)">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#@(item.Id)" aria-expanded="true" aria-controls="collapseOne">
+         Order # @item.Id
+        </button>
+         <span>@item.TotalAmount</span> 
+      </h5>
+    </div>
+
+    <div id="@(item.Id)" class="collapse show" aria-labelledby="card-@(item.Id)" data-parent="#accordion">
+      <div class="card-body">
+      @if(item.UserCarts!=null){
+        foreach(var cart in item.UserCarts){
+         var prod=Model.Products?.Where(p=>p.Id==cart.ProductId).FirstOrDefault();
+
+          <div class="card-body">
+            <div class="col-md-4">
+              <img src="@prod.ImgSmall[0]">
+            </div>
+             <div class="col-md-8">
+               @prod.DisplayShortText
+            </div>
+          </div>         
+       }
+      }
+       
+
+      </div>
+    </div>
+  </div>
+  
+
+}
+</div>*@ 

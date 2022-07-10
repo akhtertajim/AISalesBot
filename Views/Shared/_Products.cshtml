@@ -1,0 +1,31 @@
+@model ProductsViewModel
+
+ <div class="row pt-2 mx-n2">
+
+@foreach(var product in Model.Products){
+ <div class="col-lg-3 col-md-4 col-sm-6 px-2 mb-4">
+ <div class="card product-card" data-prodid="@product.Id">
+    <a class="card-img-top d-block overflow-hidden" href="/Product/ProductDetails/@product.Id">
+    <img class="card-img-top" src="@product.ImgSmall[0]" alt="@product.DisplayShortText">
+    </a>
+    <div class="card-body">
+     <p class="text-muted"><small> @product.ProductCategory.Name </small></p>
+      <p class="card-text font-weight-normal">@product.DisplayShortText</p>
+      <p>
+      <span class="font-weight-bold float-right">@product.Price</span>
+      <span class="float-left"> 
+      <span class="fa fa-star @(product.UserRating>=1?"checked":"")"></span>
+      <span class="fa fa-star @(product.UserRating>=2?"checked":"")"></span>
+      <span class="fa fa-star @(product.UserRating>=3?"checked":"")"></span>
+      <span class="fa fa-star @(product.UserRating>=4?"checked":"")"></span>
+      <span class="fa fa-star @(product.UserRating>=5?"checked":"")"></span>
+      </span>
+    </p>
+    </div>
+    <div class="card-body card-body-hidden ">
+        <button class="btn btn-primary btn-sm btn-block mb-2 add-to-cart" data-prodid="@product.Id" type="button" data-toggle="toast" data-target="#cart-toast"><i class="fa fa-shopping-cart mr-1"></i>Add to Cart</button>
+      </div>
+  </div>
+  </div>
+}
+</div>

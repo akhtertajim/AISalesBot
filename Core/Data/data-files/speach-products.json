@@ -1,0 +1,36 @@
+[
+  {
+    "productId": "0D4DEC0C-09B3-4806-9E05-822FFE8DE91C",
+    "speechText": "#$ProductName$# Excellant Choice Sir, This product is wonderfull. The items is available at good price #$Price$# only.",
+    "priceNegotiationAllowed": true
+  },
+  {
+    "productId": "90342268-F71A-4FE1-85CA-D90B73B8C244",
+    "speechText": "#$ProductName$#, this LED device doesn't match your search. The device is available at #$Price$# rupees only. User has given only #$UserRatings$# starts to this item. We recommend you to check other options",
+    "priceNegotiationAllowed": true
+  },
+  {
+    "productId": "7E581F4B-ECAE-4EFE-909E-0395B38B91E7",
+    "speechText": "#$ProductName$#, this mobile is available in 3 different colors at #$Price$# rupees only. Overall rating of the item is 3 start."
+  },
+  {
+    "productId": "0FD4596E-09CA-46F7-B8DD-CF030F715536",
+    "speechText": "#$ProductName$#, this mobile is available in 3 different colors at #$Price$# rupees only. Overall rating of the item is 3 start."
+  },
+  {
+    "productId": "94F0F010-071B-497E-96A3-771DF8C80725",
+    "speechText": "#$ProductName$#, this mobile is available in 3 different colors at #$Price$# rupees only. Overall rating of the item is 3 start."
+  },
+  {
+    "productId": "ABAF62F7-9132-4374-988E-AB3D11EA1D69",
+    "speechText": "#$ProductName$#, this mobile is available in 3 different colors at #$Price$# rupees only. Overall rating of the item is 3 start."
+  },
+  {
+    "productId": "C3BD31E0-9249-4A95-9685-BD34BBD8023D",
+    "speechText": "#$ProductName$#, this mobile is available in 3 different colors at #$Price$# rupees only. Overall rating of the item is 3 start."
+  },
+  {
+    "productId": "F576ACD3-7750-4BF7-B415-38E2287FE07D",
+    "speechText": "#$ProductName$#, this mobile is available in 3 different colors at #$Price$# rupees only. Overall rating of the item is 3 start."
+  }
+]

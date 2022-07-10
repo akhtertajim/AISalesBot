@@ -1,0 +1,219 @@
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\appsettings.Development.json
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\appsettings.json
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.exe
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.deps.json
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.runtimeconfig.json
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.runtimeconfig.dev.json
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\ref\aisalesbot.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.Views.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\aisalesbot.Views.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.csprojAssemblyReference.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.AssemblyInfoInputs.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.AssemblyInfo.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.csproj.CoreCompileInputs.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.MvcApplicationPartsAssemblyInfo.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorAssemblyInfo.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorAssemblyInfo.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\staticwebassets\aisalesbot.StaticWebAssets.Manifest.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\staticwebassets\aisalesbot.StaticWebAssets.xml
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\scopedcss\bundle\aisalesbot.styles.css
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.TagHelpers.input.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.TagHelpers.output.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorCoreGenerate.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorTargetAssemblyInfo.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorTargetAssemblyInfo.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.Views.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\ref\aisalesbot.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.genruntimeconfig.cache
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\aisalesbot.csproj.CopyComplete
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\product.json
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\speech-welcome.json
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Product\ProductDetails.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Home\Index - Copy.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_Products.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\speach-products.json
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_ChatWindow.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\EntityFramework.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Humanizer.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.CodeDom.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sikkim Manial University\major project\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\SendCode.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOpen.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\DeleiveryOptions.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\Payment.cshtml.g.cs
+F:\Sikkim Manial University\major project\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\MyOrders.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\appsettings.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\price-negotiation-template.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\product.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\speach-products.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Core\Data\data-files\speech-welcome.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.exe
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.deps.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.runtimeconfig.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.runtimeconfig.dev.json
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\ref\aisalesbot.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.Views.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\aisalesbot.Views.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.csprojAssemblyReference.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.AssemblyInfoInputs.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.AssemblyInfo.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.csproj.CoreCompileInputs.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorAssemblyInfo.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorAssemblyInfo.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\staticwebassets\aisalesbot.StaticWebAssets.Manifest.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\staticwebassets\aisalesbot.StaticWebAssets.xml
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\scopedcss\bundle\aisalesbot.styles.css
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.TagHelpers.input.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.TagHelpers.output.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorCoreGenerate.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Account\SendCode.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\DeleiveryOptions.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\MyOrders.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Cart\Payment.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Home\Index - Copy.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Product\ProductDetails.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_ChatWindow.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOpen.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_Products.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorTargetAssemblyInfo.cache
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.RazorTargetAssemblyInfo.cs
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.Views.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.csproj.CopyComplete
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\ref\aisalesbot.dll
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.pdb
+C:\Users\Tanveer\Desktop\project\aisalesbot\obj\Debug\net5.0\aisalesbot.genruntimeconfig.cache

@@ -1,0 +1,120 @@
+@model ProductDetailsViewModel
+@{
+    ViewData["Title"] = "Product";
+}
+
+<div class="card product-details">
+    <div class="row g-0">
+        <div class="col-md-6">
+            <img class="card-img-top" src="@Model.Product.ImgSmall[0]" alt="Card image cap">
+        </div>
+        <div class="col-md-6">
+            <div class="card-body">
+                <h5 class="card-title">@Model.Product.DisplayShortText</h5>
+                <p class="card-text">@Model.Product.Price</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <button data-prodid="@Model.Product.Id" class="btn btn-primary btn-sm" id="addtocart" type="button"><i class="fa fa-shopping-cart mr-1"></i>Add to Cart</button>
+                <a class="btn btn-primary btn-sm" style="display: none;" type="button" id="btnviewcart" href="/cart/index"><i class="fa fa-shopping-cart mr-1"></i>View Cart</a>
+                <a class="btn btn-primary btn-sm" id="btnBuyNow" href="/Cart/BuyNow?prodId=@Model.Product.Id"></i>Buy Now</a>
+                <h5>Overview</h5>
+                <ul class="list-unstyled">
+                    <li><b> Flavour</b> 	Pain California Almonds Kernels</li>
+                    <li><b>Brand </b>	Tulsi</li>
+                    <li><b>Weight</b>	500 Grams</li>
+                    <li><b>Variety</b>	California Almonds</li>
+                </ul>
+                <p>
+
+                <p>
+
+                </p>
+                <!-- <h5>About this item </h5>
+                <ul>
+                   <li> 100% Best quality product from the house of Tulsi. </li>
+                   <li>Tulsi California Almonds are the most popular nuts sourced from the USA.</li>
+                   <li>A favorite of dieters, in recent years almonds have become famous for their versatility and health benefits.</li>
+                   <li>They are a very good source of energy-encouragers riboflavin, manganese, and copper.</li>
+                   <li>Almonds are naturally gluten-free and are a versatile, nutrient-rich addition to gluten-free diets.</li>
+                   <li>Storage Information- Keep it airtight & refrigerated for optimum freshness.</li>
+                </ul> -->
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bd-content">
+    <h2>Similar Items</h2>
+    <div id="dynamicContentContainer">
+    </div>
+</div>
+
+
+@section Scripts{
+    <script src="/js/site/scripts/speech-service.js"></script>
+    <script src="~/js/site/scripts/ChatServices.js"></script>
+    <script src="~/js/site/scripts/ChatBotService.js"></script>
+    <script>
+    loadProducts();
+   
+    //WelcomeNote();
+
+    var speech=new SpeechService();
+
+    function loadProducts(){
+    $.get('@Url.Action("ProductList","Product")',{}, function(content){
+            $("#dynamicContentContainer").html(content);
+          BindEvent();
+        });
+    }
+
+        function BindEvent() {
+
+            ChatBotService.init();
+            ChatBotService.ProductDetailsPage('@Model.Product.Id', 'Tajim Akhter');
+             ChatBotService.BindUserEvent();
+//$(".card.product-card").on("mouseenter",function(){
+//      let prodid=$(this).data("prodid");
+//      $.ajax({
+//            url:"/Product/GetSpeech/"+prodid,
+//            success:function(data,response){
+//               console.log(data);
+//                speech.speak(data.speechText);
+//            },
+//            error:function(xhr,e,m){
+//                console.log(xhr);
+//            }
+
+//        })
+//    });
+//    $(".card.product-card").on("mouseout",function(){
+//      speech.interrupt();
+//    });
+
+    $("#addtocart").on("click",function(){
+      let prodid=$(this).data("prodid");
+      $.ajax({
+            url:"/Cart/AddToCart",
+            data:{
+              prodId:prodid
+            },
+            method:"post",
+            success:function(data,response){
+                console.log(data);
+                $("#cart-count").text(data.cartCount);
+                alert("Added to your cart items.");
+
+                $("#addtocart").remove();
+                $("#btnviewcart").show();
+            },
+            error:function(xhr,e,m){
+                console.log(xhr);
+            }
+
+        })
+    });
+}
+
+    </script>
+
+}

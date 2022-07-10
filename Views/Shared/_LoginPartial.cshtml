@@ -1,0 +1,38 @@
+@using Microsoft.AspNetCore.Identity
+@using aisalesbot.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+    <form asp-controller="Account" asp-action="LogOff" method="post" id="logoutForm" class="navbar-right">
+       
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                @UserManager.GetUserName(User)
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" asp-controller="Account" asp-action="ResetPassword">Change Password</a>
+                @*<a class="dropdown-item" href="#">Another action</a>*@
+                <button type="submit" class="dropdown-item">Log off</button>
+            </div>
+        </div>
+        @*<ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a asp-controller="Manage" asp-action="Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+                </li>
+                <li>
+                    <button type="submit" class="btn btn-link navbar-btn navbar-link">Log off</button>
+                </li>
+            </ul>*@
+    </form>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a asp-controller="Account" asp-action="Register">Register</a></li>
+        <li><a asp-controller="Account" asp-action="Login">Log in</a></li>
+    </ul>
+}

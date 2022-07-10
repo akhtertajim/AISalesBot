@@ -1,0 +1,78 @@
+@model aisalesbot.Models.CartViewModel;
+@{
+    ViewData["Title"] = "Cart";
+    decimal totalAmout=0;
+    decimal discount = 0;
+}
+
+<form action="/Cart/DeleiveryOptions">
+@if(Model==null || Model.CartItems.Count<1)
+{
+<div class="card product-details">
+  <div class="row g-0">
+     <div class="col-md-6">
+        <div class="card-body">
+          Cart Is Empty
+        </div>
+     </div>
+  </div>
+</div>
+}
+else
+{
+    foreach(var cart in Model.CartItems)
+    {
+        totalAmout+=cart.Product?.UnitPrice??0;
+        discount = cart.Discount;
+    <div class="card product-details" data-cart-itemid="@cart.Id">
+    <div class="row g-0">
+       <div class="col-md-2">
+        <img class="card-img-top" src="@cart.Product.ImgSmall[0]" alt="Card image cap">
+     </div>
+         <div class="col-md-4">
+             <div class="card-body">
+                  <h5 class="card-title">@cart.Product.DisplayShortText</h5>
+                   <button class="btn btn-primary btn-sm btn-remove-cart" type="button" ><i class="fa fa-shopping-cart mr-1"></i>Remove From Cart</button>
+             </div>
+         </div>
+         <div class="col-md-3">
+            <div class="card-body">
+          <button class="btn btn-success  btn-sm" style="margin-top: -3px;"> <i class="fa fa-plus"></i></button>
+             <input type="number"  style="width: 51px;display:initial;" class="form-control form-control-sm" value="@cart.Unit" width="60px" >
+          <button class="btn btn-success  btn-sm" style="margin-top: -3px;"> <i class="fa fa-minus"></i></button>
+         </div>
+           </div>
+           <div class="col-md-3">
+              <div class="card-body">
+              <p class="card-text text-right"><strong>@(cart.Product.UnitPrice- cart.Discount)</strong> </p>
+              </div>
+           </div>
+    </div>
+  </div>
+
+  }
+
+ 
+
+  <button class="btn btn-primary">Checkout ₹  @(totalAmout-discount)</button>
+}
+</form>
+@section Scripts{
+<script>
+  $(".btn-remove-cart").on("click",function(){
+    var itemid=$(this).closest(".product-details").data("cart-itemid");
+    var data={
+      cartItemId:itemid
+    };
+  
+    $.post("/Cart/RemoveCartItem",data)
+    .done(function(resp){
+      window.location.reload();
+    })
+    .fail(function(xhr,error,err){
+      alert("An error occured");
+      console.log(xhr);
+    });
+  });
+</script>
+}

@@ -1,0 +1,138 @@
+  [
+    {
+      "productCategory": {
+        "name": "LED Devices",
+        "id": 1
+      },
+      "id": "0D4DEC0C-09B3-4806-9E05-822FFE8DE91C",
+      "displayShortText": "LG Smart LED device LG12344",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 13000.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/monitors/monitor-1.jpg", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "LED Devices",
+        "id": 1
+      },
+      "id": "90342268-F71A-4FE1-85CA-D90B73B8C244",
+      "displayShortText": "LG Smart LED device LG12345",
+      "displayFullText": "",
+      "userRating": 1,
+      "unitPrice": 13000.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/monitors/monitor-2.jpg", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "Smartphones",
+        "id": 2
+      },
+      "id": "7E581F4B-ECAE-4EFE-909E-0395B38B91E7",
+      "displayShortText": "Apple iPhone X (Silver, 64 GB)",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 64000.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/mobiles/iphone-1.jpg", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "Smartphones",
+        "id": 2
+      },
+      "id": "0FD4596E-09CA-46F7-B8DD-CF030F715536",
+      "displayShortText": "Apple iPhone X (Black, 64 GB)",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 59999.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/mobiles/iphone-2.png", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "Laptop/Macbook",
+        "id": 3
+      },
+      "id": "94F0F010-071B-497E-96A3-771DF8C80725",
+      "displayShortText": "HP 14 Core i5 10th Gen",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 54000.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/laptops/lp-1.jpg", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "Laptop/Macbook",
+        "id": 3
+      },
+      "id": "ABAF62F7-9132-4374-988E-AB3D11EA1D69",
+      "displayShortText": "ASUS 14 Core i5 10th Gen",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 44999.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/laptops/lp-2.png", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "Mobile Accessories",
+        "id": 4
+      },
+      "id": "C3BD31E0-9249-4A95-9685-BD34BBD8023D",
+      "displayShortText": "JBL Bluetooth Headphone (JBL-S6)",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 2399.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/headphones/headphone-1.png", "" ],
+      "imgLarge": []
+    },
+    {
+      "productCategory": {
+        "name": "Mobile Accessories",
+        "id": 4
+      },
+      "id": "F576ACD3-7750-4BF7-B415-38E2287FE07D",
+      "displayShortText": "JBL Bluetooth Headphone (JBL-S7)",
+      "displayFullText": "",
+      "userRating": 3,
+      "unitPrice": 2299.00,
+      "discount": 0,
+      "description": "",
+      "heighlights": [ "", "" ],
+      "colors": [ "", "" ],
+      "imgSmall": [ "/img/electronics/headphones/headphone-2.png", "" ],
+      "imgLarge": []
+    }
+  ]  

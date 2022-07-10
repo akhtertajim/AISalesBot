@@ -1,0 +1,66 @@
+[
+  {
+    "productId": "0D4DEC0C-09B3-4806-9E05-822FFE8DE91C",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 5,
+    "negotiationSlabsSecond": 10,
+    "negotiationSlabsFinal": 15,
+    "allNegotiation": true
+  },
+  {
+    "productId": "90342268-F71A-4FE1-85CA-D90B73B8C244",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 4,
+    "negotiationSlabsSecond": 7,
+    "negotiationSlabsFinal": 10,
+    "allNegotiation": true
+  },
+  {
+    "productId": "7E581F4B-ECAE-4EFE-909E-0395B38B91E7",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 10,
+    "negotiationSlabsSecond": 15,
+    "negotiationSlabsFinal": 20,
+    "allNegotiation": false
+  },
+  {
+    "productId": "0FD4596E-09CA-46F7-B8DD-CF030F715536",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 5,
+    "negotiationSlabsSecond": 10,
+    "negotiationSlabsFinal": 15,
+    "allNegotiation": false
+  },
+  {
+    "productId": "94F0F010-071B-497E-96A3-771DF8C80725",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 5,
+    "negotiationSlabsSecond": 10,
+    "negotiationSlabsFinal": 15,
+    "allNegotiation": true
+  },
+  {
+    "productId": "ABAF62F7-9132-4374-988E-AB3D11EA1D69",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 5,
+    "negotiationSlabsSecond": 10,
+    "negotiationSlabsFinal": 15,
+    "allNegotiation": true
+  },
+  {
+    "productId": "F576ACD3-7750-4BF7-B415-38E2287FE07D",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 5,
+    "negotiationSlabsSecond": 10,
+    "negotiationSlabsFinal": 15,
+    "allNegotiation": true
+  },
+  {
+    "productId": "F576ACD3-7750-4BF7-B415-38E2287FE07D",
+    "userQueries": [ "", "" ],
+    "negotiationSlabsFirst": 5,
+    "negotiationSlabsSecond": 10,
+    "negotiationSlabsFinal": 15,
+     "allNegotiation" :true
+  }
+]
